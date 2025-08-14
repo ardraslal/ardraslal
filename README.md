@@ -1,18 +1,23 @@
 ## Hi there 👋
-- I'm ARDRA S LAL
-- I’m currently working on something cool
-<!--
-**ardraslal/ardraslal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Ardra S Lal 👋
 
-Here are some ideas to get you started:
-I'm ARDRA S LAL
-I’m currently working on something cool
-- 🔭 I’m currently working ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **B.Tech in Computer Science (2025) @ NIT Calicut**  
+📍 Kollam, Kerala, India  
+📧 ammuardra2002@gmail.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ardra-s-lal-28ba41255)
+[![GitHub](https://img.shields.io/badge/GitHub-ardraslal-black?logo=github)](https://github.com/ardraslal)
+
+---
+
+### 👩‍💻 About Me
+
+I’m a Computer Science graduate passionate about building intelligent solutions at the intersection of **AI-driven bioinformatics** and **responsive web development**. I love solving complex problems using deep learning, graph neural networks, and modern web technologies, turning ideas into impactful, production-ready solutions.
+
+---
+
+### 📈 Stats
+
+![Ardra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardraslal&show_icons=true&hide_title=true&theme=radical)
+
+**Let’s connect and build something amazing together!**
