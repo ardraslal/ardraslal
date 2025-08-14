@@ -15,9 +15,4 @@
 I’m a Computer Science graduate passionate about building intelligent solutions at the intersection of **AI-driven bioinformatics** and **responsive web development**. I love solving complex problems using deep learning, graph neural networks, and modern web technologies, turning ideas into impactful, production-ready solutions.
 
 ---
-
-### 📈 Stats
-
-![Ardra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardraslal&show_icons=true&hide_title=true&theme=radical)
-
 **Let’s connect and build something amazing together!**
